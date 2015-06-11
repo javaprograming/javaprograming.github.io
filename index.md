@@ -9,5 +9,5 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 ![jdk](./images/3.png)
 2. Confirming Java installation.
  1. Open Terminal
- 1. Run ```java -version```
-![jdk](./images/4.png)
+ 1. Run ```java -version```  
+ ![jdk](./images/4.png)
